@@ -1,2 +1,14 @@
 # stream-xinlang-guide
-HTML page archive and documentation
+
+页面托管与归档说明
+
+本仓库承载生成后的页面文件，便于跟踪每次提交内容。
+
+## 页面目录
+
+- 每个 HTML 文件代表一个页面
+- README 仅作为仓库说明
+
+## 说明
+
+本仓库用于页面托管和归档，具体文件以当前仓库内容为准。
